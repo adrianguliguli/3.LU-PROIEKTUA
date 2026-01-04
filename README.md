@@ -55,6 +55,7 @@ Proiektua/
 └── README.md
 
 📄 Fitxategien azalpena
+
 🔹 Program.cs
 
 Programaren abiapuntua da (Main metodoa).
