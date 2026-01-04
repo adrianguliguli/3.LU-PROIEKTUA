@@ -1,5 +1,6 @@
-🍔 Burger Express – Eskaera Kudeaketa Sistema
-📌 Proiektuaren azalpena
+Burger Express – Eskaera Kudeaketa Sistema
+
+Proiektuaren azalpena
 
 Proiektu hau Burger Express jatetxerako eskaeren kudeaketa sistema da, C# lengoaian egina eta kontsola bidez funtzionatzen duena.
 
@@ -17,7 +18,7 @@ Eguneko menua aldatzeko
 
 Programa modularra da, klase desberdinetan banatuta, kodea argiagoa eta antolatuagoa izateko.
 
-🛠 Erabilitako teknologiak
+Erabilitako teknologiak
 
 Lengoaia: C#
 
