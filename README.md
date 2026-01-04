@@ -1,4 +1,5 @@
 🍔 Burger Express – Eskaera Kudeaketa Sistema
+
 📌 Proiektuaren azalpena
 
 Proiektu hau Burger Express jatetxerako eskaeren kudeaketa sistema da, C# lengoaian egina eta kontsola bidez funtzionatzen duena.
