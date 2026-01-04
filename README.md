@@ -1,6 +1,8 @@
 # 3.LU-Proiektua
 1️⃣ Programaren deskribapena
+
 Programa hau Burger Express jatetxe baten eskaeren sistema simulatzen du. Honako funtzio hauek ditu:
+
 Eskaera berriak sortzea.
 
 
