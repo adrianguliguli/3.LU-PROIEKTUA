@@ -21,14 +21,16 @@ Eguneko menuaren konfigurazioa aldatzea.
 Erabiltzaileak programarekin kontsola bidezko menu baten bitartez interakzio egiten du.
 
 2️⃣ Fitxategi eta klase nagusiak
+
 a) Program.cs
+
 Programaren hasiera puntua (Main) dauka.
 
 
 SProiektua klasearen instantzia sortzen du eta Run() metodoa exekutatzen du.
 
-
 SProiektua p = new SProiektua();
+
 p.Run();
 
 
